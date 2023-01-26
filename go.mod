@@ -1,4 +1,4 @@
-module github.com/somma-inc/gopsutil/v3
+module github.com/somma-inc/gopsutil
 
 go 1.15
 
