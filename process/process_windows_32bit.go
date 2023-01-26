@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/sys/windows"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
+	"github.com/somma-inc/gopsutil/internal/common"
 )
 
 type PROCESS_MEMORY_COUNTERS struct {

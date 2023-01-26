@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
+	"github.com/somma-inc/gopsutil/internal/common"
 	"github.com/tklauser/go-sysconf"
 	"golang.org/x/sys/unix"
 )

@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
+	"github.com/somma-inc/gopsutil/internal/common"
 )
 
 func parseNetstatI(output string) ([]IOCountersStat, error) {
